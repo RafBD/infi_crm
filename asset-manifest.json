@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/infi_crm/static/css/main.e770d341.css",
-    "main.js": "/infi_crm/static/js/main.8df3c15a.js",
+    "main.js": "/infi_crm/static/js/main.f767ea2f.js",
     "static/js/453.7a8b119d.chunk.js": "/infi_crm/static/js/453.7a8b119d.chunk.js",
     "static/media/primeicons.svg": "/infi_crm/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/primeicons.eot": "/infi_crm/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
@@ -11,11 +11,11 @@
     "static/media/logo.svg": "/infi_crm/static/media/logo.deb706682fd4d57d1c5b925b136ba36f.svg",
     "index.html": "/infi_crm/index.html",
     "main.e770d341.css.map": "/infi_crm/static/css/main.e770d341.css.map",
-    "main.8df3c15a.js.map": "/infi_crm/static/js/main.8df3c15a.js.map",
+    "main.f767ea2f.js.map": "/infi_crm/static/js/main.f767ea2f.js.map",
     "453.7a8b119d.chunk.js.map": "/infi_crm/static/js/453.7a8b119d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e770d341.css",
-    "static/js/main.8df3c15a.js"
+    "static/js/main.f767ea2f.js"
   ]
 }

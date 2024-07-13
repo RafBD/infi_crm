@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/infi_crm/static/css/main.65d77eef.css",
-    "main.js": "/infi_crm/static/js/main.5f46bda7.js",
+    "main.js": "/infi_crm/static/js/main.506d696c.js",
     "static/js/214.be12e35f.chunk.js": "/infi_crm/static/js/214.be12e35f.chunk.js",
     "static/js/453.8d1e106d.chunk.js": "/infi_crm/static/js/453.8d1e106d.chunk.js",
     "static/media/fondo.gif": "/infi_crm/static/media/fondo.6fee42cc036dbbadbcab.gif",
@@ -15,12 +15,12 @@
     "static/media/logo.svg": "/infi_crm/static/media/logo.deb706682fd4d57d1c5b925b136ba36f.svg",
     "index.html": "/infi_crm/index.html",
     "main.65d77eef.css.map": "/infi_crm/static/css/main.65d77eef.css.map",
-    "main.5f46bda7.js.map": "/infi_crm/static/js/main.5f46bda7.js.map",
+    "main.506d696c.js.map": "/infi_crm/static/js/main.506d696c.js.map",
     "214.be12e35f.chunk.js.map": "/infi_crm/static/js/214.be12e35f.chunk.js.map",
     "453.8d1e106d.chunk.js.map": "/infi_crm/static/js/453.8d1e106d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65d77eef.css",
-    "static/js/main.5f46bda7.js"
+    "static/js/main.506d696c.js"
   ]
 }

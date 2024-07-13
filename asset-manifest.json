@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/infi_crm/static/css/main.65d77eef.css",
-    "main.js": "/infi_crm/static/js/main.5f46bda7.js",
+    "main.css": "/infi_crm/static/css/main.2bc034f8.css",
+    "main.js": "/infi_crm/static/js/main.b114e2d7.js",
     "static/js/214.be12e35f.chunk.js": "/infi_crm/static/js/214.be12e35f.chunk.js",
     "static/js/453.8d1e106d.chunk.js": "/infi_crm/static/js/453.8d1e106d.chunk.js",
     "static/media/fondo.gif": "/infi_crm/static/media/fondo.6fee42cc036dbbadbcab.gif",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/infi_crm/static/media/Inter-italic.var.184ec460d45b3caf5b0b.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/infi_crm/static/media/Inter-roman.var.71b058b66381db72226b.woff2",
     "static/media/primeicons.svg": "/infi_crm/static/media/primeicons.6ed59f962963a4a73af2.svg",
-    "static/media/Inter-italic.var.woff2?v=3.19": "/infi_crm/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
-    "static/media/Inter-roman.var.woff2?v=3.19": "/infi_crm/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
     "static/media/primeicons.eot": "/infi_crm/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
     "static/media/primeicons.woff": "/infi_crm/static/media/primeicons.8931fda1930c3bd21e96.woff",
     "static/media/primeicons.ttf": "/infi_crm/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/infi_crm/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "static/media/logo.svg": "/infi_crm/static/media/logo.deb706682fd4d57d1c5b925b136ba36f.svg",
     "index.html": "/infi_crm/index.html",
-    "main.65d77eef.css.map": "/infi_crm/static/css/main.65d77eef.css.map",
-    "main.5f46bda7.js.map": "/infi_crm/static/js/main.5f46bda7.js.map",
+    "main.2bc034f8.css.map": "/infi_crm/static/css/main.2bc034f8.css.map",
+    "main.b114e2d7.js.map": "/infi_crm/static/js/main.b114e2d7.js.map",
     "214.be12e35f.chunk.js.map": "/infi_crm/static/js/214.be12e35f.chunk.js.map",
     "453.8d1e106d.chunk.js.map": "/infi_crm/static/js/453.8d1e106d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65d77eef.css",
-    "static/js/main.5f46bda7.js"
+    "static/css/main.2bc034f8.css",
+    "static/js/main.b114e2d7.js"
   ]
 }
